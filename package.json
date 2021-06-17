@@ -4,7 +4,7 @@
   "description": "ladne kwiatki",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "start": "npx nodemon app.js"
   },
   "repository": {
     "type": "git",
