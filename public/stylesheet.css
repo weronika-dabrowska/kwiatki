@@ -1,15 +1,8 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: cadetblue;
-}
-.box {
-    margin: auto;
-    padding: 3vmin;
-    background-color: aquamarine;
-}
-.hello {
-    font-size: 16vmin;
-    font-weight: 800;
-    text-transform: capitalize;
-    color: chocolate;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    flex: auto;
+    background-attachment: fixed;
 }
